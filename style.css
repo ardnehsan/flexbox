@@ -1,0 +1,154 @@
+.Project2{
+  width: auto;
+  overflow: hidden;
+}
+
+
+.UpBurgundy{
+  background-color: #A10A10;
+  padding: 25px;
+}
+
+.UpRed{
+  background-color: red;
+  padding: 385px;
+}
+
+.WhiteBurg{
+ background-color: #A10A10;
+ padding: 255px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-top: 64px;
+ margin-bottom: 32px;
+}
+
+.WhiteBurg2{
+ background-color: #A10A10;
+ padding: 255px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-top: 64px;
+ margin-bottom: 32px;
+}
+
+.WhiteBurg3{
+ background-color: #A10A10;
+ padding: 255px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-top: 64px;
+ margin-bottom: 32px;
+}
+
+.Dark1{
+  background-color: #230001;
+  padding: 917px;
+}
+
+.RedPink{
+  background-color: pink;
+  padding: 412px;
+  border-left: 32px solid #A10A10;
+  border-right: 32px solid #A10A10;
+  border-top: 140px solid #A10A10;
+  border-bottom: 70px solid #A10A10;
+}
+
+.Dark2{
+  background-color: #230001;
+  padding: 204px;
+}
+
+.blue{
+  width:auto;
+  overflow: hidden;
+}
+
+.navybanner{
+  background-color: #2E3E4F;
+  padding: 25px;
+}
+
+.bigblue{
+  background-color: #288ED3;
+  padding: 200px;
+}
+
+.pg2white{
+  background-color: white;
+  padding: 25px;
+}
+
+.lownavy{
+  background-color: #2E3E4F;
+  padding: 25px;
+}
+
+
+.blueline{
+  background-color: #288ED3;
+  padding: 80px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.biggray{
+  background-color: #9090AA;
+  padding: 500px;
+  border: 25px solid #2E3E4F;
+}
+
+.greywhite{
+  background-color: gray;
+  padding: 200px;
+  margin-top: 45px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 10px;
+}
+
+.stringnavy{
+  background-color: #2E3E4F;
+  padding: 20px;
+  border: 25px solid white;
+}
+
+.grayblock{
+  background-color: gray;
+  padding: 90px;
+  margin: 20px;
+}
+
+.grayblackbox{
+  background-color: gray;
+  padding: 45px;
+  border: 15px solid black;
+}
+
+.gotohome{
+  color: white;
+  font-size: 200%;
+  font-weight: bold;
+  background-color: #288ED3;
+  margin: 20px;
+  text-align: center;
+  padding: 50px;
+  border: 5px solid white;
+}
+
+.skyblue{
+  background-color: #99CCFF;
+  padding: 45px;
+  margin: 20px;
+}
+  .littlewhite{
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 10px solid white;
+}
